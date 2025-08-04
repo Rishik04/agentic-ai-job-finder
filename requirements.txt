@@ -1,0 +1,15 @@
+# requirements.txt
+
+fastapi
+uvicorn[standard]
+pydantic
+# Core AI and ML libraries
+transformers
+sentence-transformers
+torch
+accelerate
+# For loading API keys
+python-dotenv
+langchain
+langchain-google-genai
+python-dotenv
